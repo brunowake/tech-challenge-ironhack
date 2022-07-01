@@ -22,3 +22,6 @@ npm install
 npm start
 ```
 
+To use the app, you can pick your phone by browsing through the phone list, typing the name of the phone on the field 'search your phone by the name' or clicking on the arrow down key on the 'search your phone by the name' field and select an option in the pre-rendered list.
+
+![image](https://user-images.githubusercontent.com/22246536/176808543-8f883891-9b9a-4025-9f6e-22af0945937a.png)
