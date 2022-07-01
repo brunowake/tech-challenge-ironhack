@@ -44,7 +44,7 @@ const PhoneDeatils = () => {
                     </Box>
                     <Box>
                         <Button variant='contained' >
-                            <Link to='/' style={{ color: 'white', textDecoration: 'none' }}> Home </Link>
+                            <Link to='/' style={{ color: 'white', textDecoration: 'none' }}> Back </Link>
                         </Button>
                     </Box>
 
